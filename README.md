@@ -1,3 +1,5 @@
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Trendyol/pdf-creator/badge)](https://scorecard.dev/viewer/?uri=github.com/Trendyol/pdf-creator)
 # [PDF Creator]()
 ## Purpose
 In this project, We aim to generate pdf file from source content.
